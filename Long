@@ -1,0 +1,9 @@
+          @@ -142,7 +142,7 @@
+ 142  142  KAC=[cl]
+ 143  143  mid = cl.getProfile().mid
+ 144  144  Bots=[mid]
+ 145      -admin=["uac8e3eaf1eb2a55770bf10c3b2357c33"]
+      145 +admin=[You]
+ 146  146  
+ 147  147  wait = {
+ 148  148      "likeOn":False
